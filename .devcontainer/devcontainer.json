@@ -1,0 +1,10 @@
+{
+  "name": "Envoy Dev",
+  "dockerFile": "Dockerfile",
+  "runArgs": [
+    "--user=vscode",
+//    "--network=host",
+  ],
+  "remoteUser": "vscode",
+  "containerUser": "vscode",
+}
