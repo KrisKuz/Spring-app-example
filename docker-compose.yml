@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  example-service:
+    image: openjdk:11
+    container_name: example-service-container
+
