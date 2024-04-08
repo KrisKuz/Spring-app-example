@@ -1,9 +1,4 @@
 {
-  "name": "Test",
-  "dockerFile": "Dockerfile",
-  "runArgs": [
-    "--user=vscode",
-  ],
-  "remoteUser": "vscode",
-  "containerUser": "vscode",
+  "image": "ubuntu",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
 }
