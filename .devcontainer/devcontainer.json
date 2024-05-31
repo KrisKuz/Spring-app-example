@@ -1,4 +1,4 @@
 {
   "name": "Test1",
-  "image": "fedora:latest"
+  "image": "openjdk:latest"
 }
