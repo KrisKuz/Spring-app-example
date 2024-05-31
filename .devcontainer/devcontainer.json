@@ -1,4 +1,4 @@
 {
   "name": "Test1",
-  "image": "amazonlinux"
+  "image": "ubuntu:14.04"
 }
