@@ -1,0 +1,5 @@
+{
+  "name": "test6",
+  "dockerFile": "Dockerfile",
+  "context": "../case1",
+}
