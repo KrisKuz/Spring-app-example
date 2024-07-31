@@ -1,7 +1,0 @@
-{
-  "name": "Ubuntu 22.04",
-  "dockerFile": "Dockerfile",
-  "runArgs": [
-    "--network=host"
-  ]
-}
