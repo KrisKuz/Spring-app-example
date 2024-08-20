@@ -1,6 +1,6 @@
 {
 	"name": "SPFx",
-	"image": "docker.io/m365pnp/spfx:latest",
+	"image": "docker.io/m365pnp/spfx:1.18.1",
 	"forwardPorts": [
 	  4321,
 	  35729
