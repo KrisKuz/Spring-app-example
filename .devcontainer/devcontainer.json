@@ -1,0 +1,5 @@
+{
+  "name": "smoke-file-from-devcontainer-folder",
+  "image": "openjdk:11",
+  "initializeCommand": "touch testfile.txt && echo 'This is a test file.' > testfile.txt"
+}
