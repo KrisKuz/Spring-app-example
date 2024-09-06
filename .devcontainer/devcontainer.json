@@ -1,5 +1,5 @@
 {
-  "name": "smoke-file-from-devcontainer-folder",
+  "name": "test1",
   "image": "openjdk:11",
   initializeCommand: "./.devcontainer/scripts/init.sh"
 }
