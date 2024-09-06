@@ -1,10 +1,5 @@
 {
   "name": "smoke-file-from-devcontainer-folder",
   "image": "openjdk:11",
-  initializeCommand: "./scripts/init.sh"
-//  "initializeCommand": "touch /IdeaProjects/spring-app-example/file-test.txt && echo 'This is a test file.' >> /IdeaProjects/spring-app-example/file-test.txt"
-//  initializeCommand: "echo 'This is a test file.' >> /IdeaProjects/spring-app-example/file-test.txt"
-//  "initializeCommand": "mkdir -p /IdeaProjects/spring-app-example && echo 'This is a test file.' > /IdeaProjects/spring-app-example/file-test.txt"
-//  "initializeCommand": "mkdir -p /workspace/IdeaProjects/spring-app-example && echo 'This is a test file.' > /workspace/IdeaProjects/spring-app-example/file-test.txt"
-//  "initializeCommand": "touch app.py && echo 'print("Hello, World!")' >> app.py"
+  initializeCommand: "./.devcontainer/scripts/init.sh"
 }
